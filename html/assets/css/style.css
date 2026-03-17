@@ -140,8 +140,8 @@ header.main-header.style-one .logo-box {
   background-repeat: no-repeat;
 }
 .main-header .logo-box .logo img{
-  width: 190px;
-  height: 53px;
+  width: 272px;
+  height: 58px;
 }
 .main-header .menu-area {
   z-index: 1;
@@ -603,7 +603,7 @@ header.main-header.style-one .logo-box {
   position:relative;
   padding:40px 25px;
   text-align:left; 
-  max-width: 200px; 
+  max-width: 272px; 
 }
 
 .mobile-menu-visible{
